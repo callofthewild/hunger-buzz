@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T16:37:08.651Z" agent="5.0 (Windows)" etag="YDnvz9ry-R8naQg64C-v" version="15.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T16:38:46.050Z" agent="5.0 (Windows)" etag="IcgpcbfzzJ6CIuCvXkZy" version="15.9.5" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="2595" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,7 +256,7 @@
             <mxPoint x="1400" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MphkFnUnFCBE37njWN6I-71" value="Food Item (from the menu)" style="rounded=0;html=1;" vertex="1" parent="1">
+        <mxCell id="MphkFnUnFCBE37njWN6I-71" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Food Item&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;(from the menu)&lt;/div&gt;" style="rounded=0;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="400" y="660" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-73" value="&lt;div&gt;Orders&lt;/div&gt;" style="rounded=0;html=1;" vertex="1" parent="1">
