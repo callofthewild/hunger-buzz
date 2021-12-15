@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T12:04:36.152Z" agent="5.0 (Windows)" etag="snA342SW_HlL8zamIOif" version="15.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T12:09:05.719Z" agent="5.0 (Windows)" etag="Klc95oKLQw-Hh6ereqAn" version="15.9.5" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="1597" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2447" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
         <mxCell id="MphkFnUnFCBE37njWN6I-26" value="&lt;div&gt;Restaurant&lt;/div&gt;&amp;nbsp;Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MphkFnUnFCBE37njWN6I-27" value="Card number" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="MphkFnUnFCBE37njWN6I-27" value="name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-28" value="Delivery Person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -260,13 +260,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-71" value="Restaurant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-72" value="Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="-160" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MphkFnUnFCBE37njWN6I-73" value="Order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="80" height="40" as="geometry" />
+        <mxCell id="MphkFnUnFCBE37njWN6I-73" value="Orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MphkFnUnFCBE37njWN6I-74" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="MphkFnUnFCBE37njWN6I-75" source="MphkFnUnFCBE37njWN6I-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="560" as="sourcePoint" />
+            <mxPoint x="300" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MphkFnUnFCBE37njWN6I-75" value="works at" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MphkFnUnFCBE37njWN6I-76" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MphkFnUnFCBE37njWN6I-75" target="MphkFnUnFCBE37njWN6I-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="635" as="sourcePoint" />
+            <mxPoint x="200" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
