@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T14:02:29.474Z" agent="5.0 (Windows)" etag="Bzivr5gUirU9bDCZjRk2" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T14:23:42.933Z" agent="5.0 (Windows)" etag="Tg5phWsE-euICZRJxNDE" version="16.0.0" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="1298" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,6 +630,9 @@
             <mxPoint x="322" y="162" as="sourcePoint" />
             <mxPoint x="410" y="195" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hFHx8pIXMIX-kc4Szl7J-5" value="&lt;div&gt;Contributed by&lt;/div&gt;&lt;div&gt;Akash&lt;/div&gt;&lt;div&gt;Tejas&lt;/div&gt;&lt;div&gt;Sujit&lt;/div&gt;&lt;div&gt;Shweta&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="30" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
