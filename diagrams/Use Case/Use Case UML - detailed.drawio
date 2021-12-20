@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T13:26:31.304Z" agent="5.0 (Windows)" etag="cSu5V0BKZ1-T89gGXHpr" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T13:43:12.563Z" agent="5.0 (Windows)" etag="9yjyEP4lUM1Y_NojPyZF" version="16.0.0" type="github">
   <diagram id="gfJE54MbZCFaA7mXv1D1" name="Page-1">
-    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,7 +148,7 @@
         <mxCell id="oRzz4xYUQFuAO7DvcpDw-37" value="Manage food catalogue" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="630" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oRzz4xYUQFuAO7DvcpDw-38" value="Manage restaurant delivery" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oRzz4xYUQFuAO7DvcpDw-38" value="Manage restaurant food delivery" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="810" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oRzz4xYUQFuAO7DvcpDw-39" value="Add food" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -213,7 +213,7 @@
         <mxCell id="oRzz4xYUQFuAO7DvcpDw-52" value="Revoke Delivery" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="900" width="122.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oRzz4xYUQFuAO7DvcpDw-54" value="Manage Food Rating" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oRzz4xYUQFuAO7DvcpDw-54" value="Give Food Rating" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="970" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oRzz4xYUQFuAO7DvcpDw-55" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="oRzz4xYUQFuAO7DvcpDw-51" target="oRzz4xYUQFuAO7DvcpDw-38" edge="1">
@@ -347,16 +347,16 @@
             <mxPoint x="462.5220466324208" y="107.85612462092342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9DjZsKs3_KfNfSnAcR_N-1" value="Deliver Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9DjZsKs3_KfNfSnAcR_N-1" value="Deliver Order" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9DjZsKs3_KfNfSnAcR_N-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="oRzz4xYUQFuAO7DvcpDw-4" target="9DjZsKs3_KfNfSnAcR_N-1">
+        <mxCell id="9DjZsKs3_KfNfSnAcR_N-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="oRzz4xYUQFuAO7DvcpDw-4" target="9DjZsKs3_KfNfSnAcR_N-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680.2777777777778" y="590" as="sourcePoint" />
             <mxPoint x="439.63101632497523" y="99.62546722825164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9DjZsKs3_KfNfSnAcR_N-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="oRzz4xYUQFuAO7DvcpDw-9" target="9DjZsKs3_KfNfSnAcR_N-1">
+        <mxCell id="9DjZsKs3_KfNfSnAcR_N-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="oRzz4xYUQFuAO7DvcpDw-9" target="9DjZsKs3_KfNfSnAcR_N-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="294.7659604984059" as="sourcePoint" />
             <mxPoint x="373.06311741327045" y="184.1752829670031" as="targetPoint" />
