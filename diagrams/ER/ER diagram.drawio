@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T15:45:36.741Z" agent="5.0 (Windows)" etag="uLHfXmH_aKoWx1dLlKen" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T15:48:08.779Z" agent="5.0 (Windows)" etag="CTTKUXXAzLRizgLGlJ9R" version="16.1.4" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="1138" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,13 +72,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-14" value="id" style="ellipse;html=1;align=center;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="1320" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-16" value="Address text" style="ellipse;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-17" value="Pin code" style="ellipse;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-19" value="Card number" style="ellipse;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="100" width="80" height="40" as="geometry" />
@@ -338,10 +338,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-77" value="entity_type" style="ellipse;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="1320" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-78" value="&lt;div&gt;could be a person, restaurant,&lt;/div&gt;&lt;div&gt;restaurant manager or delivery person&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="160" width="180" height="45" as="geometry" />
+          <mxGeometry x="1420" y="115" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-79" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="MphkFnUnFCBE37njWN6I-6" target="MphkFnUnFCBE37njWN6I-77" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1010,6 +1010,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1280" y="182.54708582601074" as="sourcePoint" />
             <mxPoint x="1325.9893941324858" y="196.97290770767404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uCWmKZGftLplCCM8VmcW-3" value="entity_id" style="ellipse;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uCWmKZGftLplCCM8VmcW-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="MphkFnUnFCBE37njWN6I-6" target="uCWmKZGftLplCCM8VmcW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="163.8461538461538" as="sourcePoint" />
+            <mxPoint x="1331.7688396511176" y="155.88171697675102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
