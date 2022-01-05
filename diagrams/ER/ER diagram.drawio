@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T13:50:28.641Z" agent="5.0 (Windows)" etag="oiwsTF584q59SkCl5WTq" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T13:51:39.767Z" agent="5.0 (Windows)" etag="tRV0NFixopwomG-Sxgvr" version="16.2.1" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="948" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,7 +340,7 @@
         <mxCell id="MphkFnUnFCBE37njWN6I-77" value="entity_type" style="ellipse;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1320" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MphkFnUnFCBE37njWN6I-78" value="&lt;div&gt;could be a person, restaurant,&lt;/div&gt;&lt;div&gt;restaurant manager or delivery person&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MphkFnUnFCBE37njWN6I-78" value="&lt;div&gt;could be a customer, restaurant,&lt;/div&gt;&lt;div&gt;restaurant manager or delivery person&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1420" y="115" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-79" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="MphkFnUnFCBE37njWN6I-6" target="MphkFnUnFCBE37njWN6I-77" edge="1">
