@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T14:14:01.068Z" agent="5.0 (Windows)" etag="HXJbGOvY2misFSHU4moa" version="16.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T14:18:54.688Z" agent="5.0 (Windows)" etag="yr7bpLxM4ke645bwQXrf" version="16.2.1" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
     <mxGraphModel dx="813" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -870,7 +870,7 @@
         <mxCell id="z6kcJXeky-D9c9EvKkV3-32" value="order_id" style="ellipse;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1080" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z6kcJXeky-D9c9EvKkV3-33" value="payment_status_id" style="ellipse;html=1;align=center;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="z6kcJXeky-D9c9EvKkV3-33" value="payment_id" style="ellipse;html=1;align=center;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1040" y="-80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z6kcJXeky-D9c9EvKkV3-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="z6kcJXeky-D9c9EvKkV3-33" target="z6kcJXeky-D9c9EvKkV3-30" edge="1">
