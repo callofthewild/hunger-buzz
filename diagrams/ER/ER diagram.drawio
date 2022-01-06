@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T06:00:45.592Z" agent="5.0 (Windows)" etag="r0FKJ18JNd-KY0v-nRAR" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T06:01:15.121Z" agent="5.0 (Windows)" etag="ZIahNqyAJ-qFX5u7nXM4" version="16.2.2" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="981" dy="1501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -832,7 +832,7 @@
             <mxPoint x="24" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z6kcJXeky-D9c9EvKkV3-28" value="payment" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="z6kcJXeky-D9c9EvKkV3-28" value="pays a" style="shape=rhombus;perimeter=rhombusPerimeter;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1020" y="55" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z6kcJXeky-D9c9EvKkV3-29" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" parent="1" source="z6kcJXeky-D9c9EvKkV3-28" target="z6kcJXeky-D9c9EvKkV3-30" edge="1">
