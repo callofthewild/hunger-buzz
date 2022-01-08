@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T06:01:15.121Z" agent="5.0 (Windows)" etag="ZIahNqyAJ-qFX5u7nXM4" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T11:39:44.024Z" agent="5.0 (Windows)" etag="3wmd7Tz_ymrDicqh72OF" version="16.2.4" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="1185" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1041,6 +1041,9 @@
             <mxPoint x="1158.2964126756947" y="-38.13288145682941" as="sourcePoint" />
             <mxPoint x="1210" y="-25" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6r4hHv_tKptC9p7C1SqM-1" value="&lt;div&gt;placed&lt;br&gt;&lt;/div&gt;&lt;div&gt;arrived&lt;/div&gt;&lt;div&gt;preparing&lt;/div&gt;&lt;div&gt;assigned&lt;/div&gt;&lt;div&gt;out for delivery&lt;/div&gt;&lt;div&gt;delivered&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="510" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
