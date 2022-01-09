@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T11:39:44.024Z" agent="5.0 (Windows)" etag="3wmd7Tz_ymrDicqh72OF" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T10:00:48.841Z" agent="5.0 (Windows)" etag="fUJcUEjUAB0pDNnnLwDu" version="16.2.4" type="github">
   <diagram id="fd4n77I02KMqg5OLKuqp" name="Page-1">
-    <mxGraphModel dx="569" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="741" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,6 +686,9 @@
             <mxPoint x="530" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CBGs6SxVN57oh6V0yill-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MphkFnUnFCBE37njWN6I-164" target="6r4hHv_tKptC9p7C1SqM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MphkFnUnFCBE37njWN6I-164" value="status" style="ellipse;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="500" width="80" height="40" as="geometry" />
         </mxCell>
@@ -1042,8 +1045,14 @@
             <mxPoint x="1210" y="-25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6r4hHv_tKptC9p7C1SqM-1" value="&lt;div&gt;placed&lt;br&gt;&lt;/div&gt;&lt;div&gt;arrived&lt;/div&gt;&lt;div&gt;preparing&lt;/div&gt;&lt;div&gt;assigned&lt;/div&gt;&lt;div&gt;out for delivery&lt;/div&gt;&lt;div&gt;delivered&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="105" y="510" width="110" height="100" as="geometry" />
+        <mxCell id="6r4hHv_tKptC9p7C1SqM-1" value="&lt;div&gt;arrived&lt;/div&gt;&lt;div&gt;preparing&lt;/div&gt;&lt;div&gt;out for delivery&lt;/div&gt;&lt;div&gt;delivered&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="450" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CBGs6SxVN57oh6V0yill-1" value="assigned_to_delivery_person_id" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBGs6SxVN57oh6V0yill-3" value="deliver_to_address_id" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
